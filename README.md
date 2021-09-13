@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jeong HyoJin
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning JAVA, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
