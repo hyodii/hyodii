@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/87711421/136366391-a840bd61-5eab-4ea0-9244-e48a68164434.gif"  width="100" height="100"/>
+<img src="https://user-images.githubusercontent.com/87711421/136366391-a840bd61-5eab-4ea0-9244-e48a68164434.gif"  width="80" height="80"/>
 
 - Hi, I’m Jeong HyoJin
 - 👀 I’m interested in programming
