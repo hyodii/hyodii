@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Jeong HyoJin
+<img src="https://user-images.githubusercontent.com/87711421/136366391-a840bd61-5eab-4ea0-9244-e48a68164434.gif"  width="100" height="100"/>
+
+- Hi, I’m Jeong HyoJin
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JAVA, ORACLE
+- 🌱 I’m currently learning JAVA, Oracle, HTML...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
