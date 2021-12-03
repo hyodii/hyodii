@@ -13,7 +13,7 @@
 -->
 
 <div align=center>
-
+ 
 <img src="https://user-images.githubusercontent.com/87711421/136366391-a840bd61-5eab-4ea0-9244-e48a68164434.gif"  width="70" height="70"/>
  <br><b>Hi there! I'm web developer</b>
 
@@ -31,7 +31,7 @@
 
 </div>
 
-<div align=center> 
+<div> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyojinee&&show_icons=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyodii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
