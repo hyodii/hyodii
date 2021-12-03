@@ -15,7 +15,7 @@
 <div align=center>
  
 <img src="https://user-images.githubusercontent.com/87711421/136366391-a840bd61-5eab-4ea0-9244-e48a68164434.gif"  width="70" height="70"/>
-<!-- <br><b>Hi there! I'm web developer</b> -->
+<!--<br><b>Hi there! I'm wep developer using Java Spring. </b>-->
 
   
 <h3>💘Tech Stack💘</h3>
@@ -33,8 +33,9 @@
 <div align=center style="width:100%;">
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyodii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyojinee&&show_icons=true&theme=buefy)
-
+<!--
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyojinee&&show_icons=true&theme=buefy)
+-->
 </div>
 
 
