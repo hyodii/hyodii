@@ -41,8 +41,9 @@
 
 <div align=center>
  
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyodii9736@gmail.com)](mailto:hyodii9736@gmail.com) 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-turquoise?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyojin_j/)](https://velog.io/@hyojin_j/)   
+### How to reach me? 🤔
+📮  **Hyojin's email ...** [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyodii9736@gmail.com)](mailto:hyodii9736@gmail.com) <br>
+📒  **Hyojin's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-turquoise?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyojin_j/)](https://velog.io/@hyojin_j/)   
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyodii&count_bg=%23A2E9FF&title_bg=%23C6C6C6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
