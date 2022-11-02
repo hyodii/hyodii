@@ -48,7 +48,7 @@
  
 ### How to reach me? 🤔
 📮  **Hyojin's email ...** [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyodii9736@gmail.com)](mailto:hyodii9736@gmail.com) <br>
-📒  **Hyojin's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-turquoise?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyojin_j/)](https://velog.io/@hyojin_j/) [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=mailto:https://hyodii9736.notion.site/e1881db6460c4f02be94ef9abdcf1ac6)](mailto:https://hyodii9736.notion.site/e1881db6460c4f02be94ef9abdcf1ac6)
+📒  **Hyojin's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-turquoise?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyojin_j/)](https://velog.io/@hyojin_j/) [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://hyodii9736.notion.site/e1881db6460c4f02be94ef9abdcf1ac6)](mailto:https://hyodii9736.notion.site/e1881db6460c4f02be94ef9abdcf1ac6)
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyodii&count_bg=%23A2E9FF&title_bg=%23C6C6C6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
