@@ -18,10 +18,10 @@
 <!--<br><b>Hi there! I'm wep developer using Java Spring. </b>-->
 
   
-<h3>💘Tech Stack💘</h3>
+<h3>Tech Stack</h3>
 <p>
 <!-- 색상명 붙여넣을때 앞에 # 떼주기! &nbsp 한칸띄기 -->
- <b>✏️Studying✏️</b>
+ <b>📚Studying📚</b>
  <br>
  <br>
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -70,7 +70,7 @@
 
 <div align=center>
  
-### How to reach me? 🤔
+### How to reach me? 💘🤔
 📮  **Hyojin's email ...** [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyodii9736@gmail.com)](mailto:hyodii9736@gmail.com) <br>
 📒  **Hyojin's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-turquoise?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyojin_j/)](https://velog.io/@hyojin_j/)
   
